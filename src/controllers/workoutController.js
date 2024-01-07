@@ -120,6 +120,5 @@ module.exports = {
   getOneWorkout,
   createNewWorkout,
   updateOneWorkout,
-  deleteOneWorkout,
-  getRecordsForWorkout,
+  deleteOneWorkout
 };
